@@ -12,6 +12,7 @@ mvn clean package -DskipTests=true
 ./mvnc clean package -DskipTests=true
 ```
 
+## Run the application
 ```
 java -jar xx.jar
 ```
